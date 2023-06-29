@@ -3,9 +3,10 @@ Desafio do curso FullCycle, no módulo de DevOps, trabalhando com docker.
 
 ### Descrição do desafio
 > 1) publicar uma imagem no docker hub. Quando executarmos:
-
-docker run <seu-user>/fullcycle
-
+<tr>
+  <td></td>
+<td>docker run <seu-user>/fullcycle</seu-user></td>
+</tr>
 2) Temos que ter o seguinte resultado: Full Cycle Rocks!!
 
 Se você perceber, essa imagem apenas realiza um print da mensagem como resultado final, logo, vale a pena dar uma conferida no próprio site da Go Lang para aprender como fazer um "olá mundo".
