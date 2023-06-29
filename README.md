@@ -2,7 +2,7 @@
 Desafio do curso FullCycle, no módulo de DevOps, trabalhando com docker.
 
 ### Descrição do desafio
-> 1) publicar uma imagem no docker hub. Quando executarmos:
+> <p>1) publicar uma imagem no docker hub. Quando executarmos:</p>
 <tr>
   <td></td>
 <td>docker run <seu-user>/fullcycle</seu-user></td>
