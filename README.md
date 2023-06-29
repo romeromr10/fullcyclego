@@ -14,11 +14,11 @@ Desafio do curso FullCycle, no módulo de DevOps, trabalhando com docker.
 </p>
 <tr>
   <td></td>
-<td>Se você perceber, essa imagem apenas realiza um print da mensagem como resultado final, logo, vale a pena dar uma conferida no próprio site da Go Lang para aprender como fazer um "olá mundo".
-</td>
-</tr>
+<td><p>Se você perceber, essa imagem apenas realiza um print da mensagem como resultado final, logo, vale a pena dar uma conferida no próprio site da Go Lang para aprender como fazer um "olá mundo".
+</p></td>
+</tr><p>
 Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o Docker Hub.
-
+</p>
 3) A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
 ### Requisitos
