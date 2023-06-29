@@ -8,8 +8,8 @@ Desafio do curso FullCycle, no módulo de DevOps, trabalhando com docker.
 <td>docker run seu-user/fullcycle</td>
 </tr>
 <tr></tr>
-2) Temos que ter o seguinte resultado: Full Cycle Rocks!!
-
+<p>2) Temos que ter o seguinte resultado: Full Cycle Rocks!!
+</p>
 <tr>
   <td></td>
 <td>Se você perceber, essa imagem apenas realiza um print da mensagem como resultado final, logo, vale a pena dar uma conferida no próprio site da Go Lang para aprender como fazer um "olá mundo".
