@@ -8,7 +8,8 @@ Desafio do curso FullCycle, no módulo de DevOps, trabalhando com docker.
 <td>docker run seu-user/fullcycle</td>
 </tr>
 <tr></tr>
-> <p>2) Temos que ter o seguinte resultado: Full Cycle Rocks!!
+###
+ <p>2) Temos que ter o seguinte resultado: Full Cycle Rocks!!
 </p>
 <tr>
   <td></td>
