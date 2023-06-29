@@ -31,7 +31,7 @@ git clone https://github.com/romeromr10/fullcyclego.git
 
 cd fullcyclego
 
-docker run romeromr10/fullcycle
+docker run romeromr10/fullcyclego
 ```
 <br/>
 <br/>
