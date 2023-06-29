@@ -22,7 +22,7 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 3) A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
 ### Requisitos
-1. Toda a aplicação deve estar disponível na porta 8080 usando o comando docker-compose up --build -d .
+1. A imagem do projeto Go precisa ter menos de 2MB.
 
 
 ### Para rodar :zap:
