@@ -25,11 +25,17 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 1. A imagem do projeto Go precisa ter menos de 2MB.
 
 
-### Para rodar :zap:
+### Para colocar o projeto localmente rodar :zap:
 ```
 git clone https://github.com/romeromr10/fullcyclego.git
 
 cd fullcyclego
+
+docker build --t <nome> .
+
+docker run <nome> 
+
+### Para rodar direto do dockerhub :zap:
 
 docker run romeromr/fullcyclego
 ```
