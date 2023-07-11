@@ -35,8 +35,9 @@ docker build --t <nome> .
 
 docker run <nome> 
 
+```
 ### Para rodar direto do dockerhub :zap:
-
+```
 docker run romeromr/fullcyclego
 ```
 <br/>
