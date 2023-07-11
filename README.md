@@ -38,7 +38,7 @@ docker run <nome>
 ```
 ### Para rodar direto do dockerhub :zap:
 ```
-docker run romeromr/fullcyclego
+docker run romeromr/fullcycle
 ```
 <br/>
 <br/>
